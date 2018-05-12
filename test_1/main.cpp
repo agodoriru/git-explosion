@@ -12,4 +12,8 @@ int main()
 	cout<<"test"<<endl;
 	cout<<"test2"<<endl;
 	cout<<""<<endl;
+	int a;
+	cin>>a;
+
+	cout<<a*2<<endl;
 }

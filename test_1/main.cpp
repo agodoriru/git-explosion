@@ -6,4 +6,7 @@ int main()
 {
 	cout<<"         "<<endl;
 	cout<<"Hello"<<endl;
+
+	cout<<"            "<<endl;
+
 }

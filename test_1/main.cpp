@@ -17,4 +17,5 @@ int main()
 	cin>>a;
 
 	cout<<a*2<<endl;
+	cout<<a*3<<endl;
 }

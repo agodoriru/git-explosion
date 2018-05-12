@@ -16,4 +16,5 @@ int main()
 	cin>>a;
 
 	cout<<a*43<<endl;
+	cout<<"test"<<endl;
 }

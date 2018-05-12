@@ -11,4 +11,5 @@ int main()
 	cout<<""<<endl;
 	cout<<"test"<<endl;
 	cout<<"test2"<<endl;
+	cout<<""<<endl;
 }

@@ -8,6 +8,7 @@ int main()
 	cout<<"Hello"<<endl;
 
 	cout<<"            "<<endl;
-	cout<<"sensitive"<<endl;
+	cout<<""<<endl;
 	cout<<"test"<<endl;
+	cout<<"test2"<<endl;
 }
